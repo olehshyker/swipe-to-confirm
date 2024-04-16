@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Swipe to confirm</string>
+
+    <string name="price">Price</string>
+    <string name="fee">Fee</string>
+    <string name="total">Total price</string>
+    <string name="transfer_from">Payment from:</string>
+    <string name="available_balance">Available balance:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="swipe_to_confirm">Swipe to confirm</string>
+    <string name="confirm_transaction">Please confirm the following transaction</string>
+
+</resources>
